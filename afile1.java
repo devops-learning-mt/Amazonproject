@@ -1,4 +1,4 @@
 Hi Frnds,
 
-This file contains vey imp information.
+This file contains very imp information.
 
